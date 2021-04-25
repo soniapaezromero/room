@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paez_Sonia_Room</string>
+    <string name="nombre_del_jinete">Nombre del jinete</string>
+    <string name="comentario">Comentario</string>
+    <string name="buscar">Buscar</string>
+    <string name="cerrar">Volver</string>
+</resources>
